@@ -1,0 +1,14 @@
+,Cd3d,Cd3e,Cd3g,Ptprc,Cd79a,Cd19,Cd68,Adgre1,Itgam,Csf1r,Klrb1b,Ncr1,Col1a1,Col3a1,Col5a1,Fstl1,Bgn,Dct,Pmel,Tyrp1,Mlana,Rbp1,Crabp2,Rpl29,Krt18,Baiap2l1,Rpl39l,Fam159b,Snhg9,Itih3,Siglech,Klk1,Pecam1,Cdh5
+Tcell,AND,AND,AND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NK,,,,,,,,,,,AND,AND,,,,,,,,,,,,,,,,,,,,,,
+Bcell,,,,AND,AND,AND,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M,,,,,,,AND,AND,AND,AND,,,,,,,,,,,,,,,,,,,,,,,,
+CAF,,,,,,,,,,,,,AND,AND,AND,AND,AND,,,,,,,,,,,,,,,,,
+B16F10,,,,,,,,,,,,,,,,,,AND,AND,AND,AND,,,,,,,,,,,,,
+EMT6,,,,,,,,,,,,,,,,,,,,,,AND,AND,,,,,,,,,,,
+LL2,,,,,,,,,,,,,,,,,,,,,,,,AND,AND,,,,,,,,,
+CT26,,,,,,,,,,,,,,,,,,,,,,,,,,AND,AND,,,,,,,
+MC38,,,,,,,,,,,,,,,,,,,,,,,,,,,,AND,AND,,,,,
+SA1N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AND,,,,
+pDC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AND,AND,,
+Endothelial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AND,AND

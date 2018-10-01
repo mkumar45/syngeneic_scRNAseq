@@ -1,0 +1,8 @@
+,CD2,CD3D,CD3E,CD3G,CD19,CD79A,CD79B,BLK,CD163,CD14,CSF1R,PECAM1,VWF,CDH5,FAP,THY1,DCN,COL1A1,COL1A2,COL6A1,COL6A2,COL6A3,MIA,TYR,SLC45A2,CDH19,PMEL,NCAM1,NCAM2,FCGR3
+Tcell,AND,AND,AND,AND,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bcell,,,,,AND,AND,AND,AND,,,,,,,,,,,,,,,,,,,,,,
+Mac,,,,,,,,,AND,AND,AND,,,,,,,,,,,,,,,,,,,
+Endo,,,,,,,,,,,,AND,AND,AND,,,,,,,,,,,,,,,,
+CAF,,,,,,,,,,,,,,,AND,AND,AND,AND,AND,AND,AND,AND,,,,,,,,
+Mel,,,,,,,,,,,,,,,,,,,,,,,AND,AND,AND,AND,AND,,,
+NK,,,,,,,,,,,,,,,,,,,,,,,,,,,,AND,AND,AND
